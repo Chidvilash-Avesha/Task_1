@@ -1,0 +1,18 @@
+
+.ecs-table-head-item{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    align-self: stretch;
+    border-radius: 4px;
+    background: #ffffff;
+    margin-right: 25px;
+}
+.ecs-table-head-text{
+    color: var(--grey-500, #81858F);
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; 
+}

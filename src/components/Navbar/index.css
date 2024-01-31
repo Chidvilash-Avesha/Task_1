@@ -1,0 +1,40 @@
+.sidebar{
+    height: 100vh;
+}
+.toggle-left{
+    border-width:0px ;
+    margin-left: 50px;
+    cursor: pointer;
+    outline:none;
+    background-color: #FFFFFF;
+}
+.toggle-right{
+    border-width:0px ;
+    margin-left: 150px;
+    cursor: pointer;
+    outline:none;
+    background-color: #FFFFFF;
+}
+.nav-logo{
+    margin-top: 700px;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.nav-active{
+    color: #6CC29F;
+}
+.nav-menu{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.smart{
+    color: #466AB0;
+    font-weight: bold;
+}
+.scaler{
+    color: #6CC29F;
+    font-weight: bold;
+}
